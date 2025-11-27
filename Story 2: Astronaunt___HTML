@@ -1,0 +1,79 @@
+<!-- Frame 1 HTML code -->
+
+<div style="width: 1440px; height: 1024px; position: relative; background: #1A1A1D; overflow: hidden">
+  <div style="left: 449px; top: 195px; position: absolute; color: white; font-size: 36px; font-family: Inter; font-weight: 400; word-wrap: break-word">Describe your scene or emotion</div>
+  <div style="width: 296px; height: 262px; left: 283px; top: 341px; position: absolute; background: #2C2C31"></div>
+  <div style="left: 359px; top: 457px; position: absolute; color: white; font-size: 24px; font-family: Inter; font-weight: 400; word-wrap: break-word">Select Mood</div>
+  <div style="width: 290px; height: 262px; left: 859px; top: 341px; position: absolute; background: #2C2C31"></div>
+  <div style="left: 930px; top: 457px; position: absolute; color: white; font-size: 24px; font-family: Inter; font-weight: 400; word-wrap: break-word">Select Genre</div>
+  <div style="width: 607px; height: 156px; left: 397px; top: 782px; position: absolute; background: #5F33E1"></div>
+  <div style="left: 555px; top: 845px; position: absolute; color: white; font-size: 24px; font-family: Inter; font-weight: 400; word-wrap: break-word">Generate Visual Narrative</div>
+</div>
+
+<!-- Frame 2 HTML code -->
+
+<div style="width: 1440px; height: 1024px; position: relative; background: #1A1A1D; overflow: hidden">
+  <div style="left: 558px; top: 206px; position: absolute; color: white; font-size: 30px; font-family: Inter; font-weight: 400; word-wrap: break-word">Analyzing narrative arc</div>
+</div>
+
+<!-- Frame 3 HTML code -->
+
+<div style="width: 1440px; height: 1024px; position: relative; background: #1A1A1D; overflow: hidden">
+  <div style="width: 293px; height: 54px; left: 574px; top: 58px; position: absolute; color: white; font-size: 36px; font-family: Inter; font-weight: 400; word-wrap: break-word">Visual Narrative</div>
+  <div style="width: 245.24px; height: 171.90px; left: 114.19px; top: 198px; position: absolute; background: #2C2C31"></div>
+  <img style="width: 245.24px; height: 171.90px; left: 114px; top: 198px; position: absolute" src="https://placehold.co/245x172" />
+  <div style="width: 404.13px; height: 45.67px; left: 35px; top: 433.33px; position: absolute; color: white; font-size: 30px; font-family: Inter; font-weight: 400; word-wrap: break-word">Wide shot of the space station interior.</div>
+  <div style="width: 245.24px; height: 171.90px; left: 598.19px; top: 198px; position: absolute; background: #2C2C31"></div>
+  <img style="width: 245.24px; height: 171.90px; left: 598px; top: 198px; position: absolute" src="https://placehold.co/245x172" />
+  <div style="width: 404.13px; height: 45.67px; left: 519px; top: 433.33px; position: absolute; color: white; font-size: 30px; font-family: Inter; font-weight: 400; word-wrap: break-word">The astronaut slowly approaches the window.</div>
+  <div style="width: 245.24px; height: 171.90px; left: 1067.19px; top: 198px; position: absolute; background: #2C2C31"></div>
+  <img style="width: 245.24px; height: 171.90px; left: 1067px; top: 198px; position: absolute" src="https://placehold.co/245x172" />
+  <div style="width: 404.13px; height: 45.67px; left: 988px; top: 433.33px; position: absolute; color: white; font-size: 30px; font-family: Inter; font-weight: 400; word-wrap: break-word">Close-up on the astronaut's melancholic face.</div>
+  <div style="width: 245.24px; height: 171.90px; left: 341.19px; top: 585px; position: absolute; background: #2C2C31"></div>
+  <img style="width: 245.24px; height: 171.90px; left: 341px; top: 585px; position: absolute" src="https://placehold.co/245x172" />
+  <div style="width: 404.13px; height: 45.67px; left: 262px; top: 820.33px; position: absolute; color: white; font-size: 30px; font-family: Inter; font-weight: 400; word-wrap: break-word">Earth is reflected in the helmet's visor.</div>
+  <div style="width: 245.24px; height: 171.90px; left: 865.19px; top: 585px; position: absolute; background: #2C2C31"></div>
+  <img style="width: 245.24px; height: 171.90px; left: 865px; top: 585px; position: absolute" src="https://placehold.co/245x172" />
+  <div style="width: 404.13px; height: 45.67px; left: 786px; top: 820.33px; position: absolute; color: white; font-size: 30px; font-family: Inter; font-weight: 400; word-wrap: break-word">A gloved hand touches the cold glass.</div>
+  <div style="width: 105px; height: 48px; left: 1237px; top: 64px; position: absolute; background: #133D51"></div>
+  <div style="left: 1247px; top: 73px; position: absolute; color: black; font-size: 26px; font-family: Inter; font-weight: 400; word-wrap: break-word">Export</div>
+</div>
+
+<!-- Frame 4 HTML code -->
+
+<div style="width: 1440px; height: 1024px; position: relative; background: #1A1A1D; overflow: hidden">
+  <div style="width: 293px; height: 54px; left: 574px; top: 58px; position: absolute; color: white; font-size: 36px; font-family: Inter; font-weight: 400; word-wrap: break-word">Visual Narrative</div>
+  <img style="width: 807.69px; height: 541.39px; left: 178px; top: 269px; position: absolute" src="https://placehold.co/808x541" />
+  <div style="width: 1331px; height: 143.84px; left: -64px; top: 880.16px; position: absolute; color: white; font-size: 30px; font-family: Inter; font-weight: 400; word-wrap: break-word">                                            Wide shot of the space station interior.</div>
+  <div style="width: 249px; height: 1px; left: 1164px; top: 481px; position: absolute; background: #D9D9D9"></div>
+  <div style="width: 11px; height: 32px; left: 1207px; top: 464px; position: absolute; background: #D9D9D9; border-radius: 9999px"></div>
+  <div style="width: 246px; height: 36px; left: 1163px; top: 512px; position: absolute; color: #133D51; font-size: 30px; font-family: Inter; font-weight: 400; word-wrap: break-word">Mood Intensity</div>
+  <div style="width: 249px; height: 1px; left: 1165px; top: 325px; position: absolute; background: #D9D9D9"></div>
+  <div style="width: 11px; height: 32px; left: 1208px; top: 308px; position: absolute; background: #D9D9D9; border-radius: 9999px"></div>
+  <div style="width: 246px; height: 36px; left: 1164px; top: 356px; position: absolute; color: #133D51; font-size: 30px; font-family: Inter; font-weight: 400; word-wrap: break-word">Lighting Contrast</div>
+  <div style="width: 249px; height: 1px; left: 1161px; top: 620px; position: absolute; background: #D9D9D9"></div>
+  <div style="width: 11px; height: 32px; left: 1204px; top: 603px; position: absolute; background: #D9D9D9; border-radius: 9999px"></div>
+  <div style="width: 246px; height: 36px; left: 1161px; top: 654px; position: absolute; color: #133D51; font-size: 30px; font-family: Inter; font-weight: 400; word-wrap: break-word">Emotion Tone</div>
+  <div style="width: 249px; height: 68.98px; left: 1163px; top: 741px; position: absolute; background: #133D51"></div>
+  <div style="width: 215.80px; height: 27.07px; left: 1175.23px; top: 762.83px; position: absolute; color: black; font-size: 26px; font-family: Inter; font-weight: 400; word-wrap: break-word">Confirm Changes</div>
+</div>
+
+<!-- Frame 5 HTML code -->
+
+<div style="width: 1440px; height: 1024px; position: relative; background: #1A1A1D; overflow: hidden">
+  <div style="width: 293px; height: 54px; left: 574px; top: 39px; position: absolute; color: white; font-size: 39px; font-family: Inter; font-weight: 400; word-wrap: break-word">Visual Narrative</div>
+  <img style="width: 245.24px; height: 171.90px; left: 74px; top: 196px; position: absolute" src="https://placehold.co/245x172" />
+  <div style="width: 404.13px; height: 45.67px; left: 29px; top: 394.33px; position: absolute; color: white; font-size: 28px; font-family: Inter; font-weight: 400; word-wrap: break-word">Wide shot of the space station interior.</div>
+  <img style="width: 245.24px; height: 171.90px; left: 574px; top: 196px; position: absolute" src="https://placehold.co/245x172" />
+  <div style="width: 404.13px; height: 45.67px; left: 525px; top: 390.33px; position: absolute; color: white; font-size: 28px; font-family: Inter; font-weight: 400; word-wrap: break-word">The astronaut slowly approaches the window.</div>
+  <img style="width: 245.24px; height: 171.90px; left: 1088px; top: 196px; position: absolute" src="https://placehold.co/245x172" />
+  <div style="width: 404.13px; height: 45.67px; left: 1020px; top: 385.33px; position: absolute; color: white; font-size: 28px; font-family: Inter; font-weight: 400; word-wrap: break-word">Close-up on the astronaut's melancholic face.</div>
+  <img style="width: 245.16px; height: 161.50px; left: 333px; top: 543px; position: absolute" src="https://placehold.co/245x161" />
+  <div style="width: 404px; height: 42.91px; left: 293px; top: 718.09px; position: absolute; color: white; font-size: 28px; font-family: Inter; font-weight: 400; word-wrap: break-word">Earth is reflected in the helmet's visor.</div>
+  <img style="width: 243.94px; height: 161.50px; left: 884px; top: 543px; position: absolute" src="https://placehold.co/244x161" />
+  <div style="width: 402px; height: 42.91px; left: 820px; top: 716.09px; position: absolute; color: white; font-size: 28px; font-family: Inter; font-weight: 400; word-wrap: break-word">A gloved hand touches the cold glass.</div>
+  <div style="width: 467px; height: 92px; left: 160px; top: 875px; position: absolute; background: #133D51"></div>
+  <div style="left: 203px; top: 903px; position: absolute; color: black; font-size: 28px; font-family: Inter; font-weight: 400; word-wrap: break-word">Export as Storyboard (PDF)</div>
+  <div style="width: 467px; height: 92px; left: 833px; top: 875px; position: absolute; background: #133D51"></div>
+  <div style="left: 876px; top: 903px; position: absolute; color: black; font-size: 28px; font-family: Inter; font-weight: 400; word-wrap: break-word">Export as Video Clip (MP4)</div>
+</div>
