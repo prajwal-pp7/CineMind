@@ -16,7 +16,10 @@ This repository is for *demonstration purposes only* and does not require runnin
 
 ## Purpose
 
-This repository demonstrates the intended backend workflow of CineMind. It shows how a one-line story prompt can be analyzed for emotional tone and key visual elements, expanded into cinematic AI prompts, and converted into visual frames. The focus is on illustrating the *conceptual pipeline* rather than producing actual images.
+This repository demonstrates the intended backend workflow of CineMind. It shows how a one-line story prompt can be analyzed for emotional tone and key visual elements, expanded into cinematic AI prompts, and converted into visual frames. The focus is on illustrating the *conceptual pipeline* rather than producing actual images. 
+The prototypes can be viewed on Figma: [CineMind Prototype 1] (https://www.figma.com/design/WhpN8N0DtObnrDLCAKqpxA/Untitled?node-id=24-68&t=0BsEfLQ6s4F6W9XU-0)
+[CineMind Prototype 2] (https://www.figma.com/design/WhpN8N0DtObnrDLCAKqpxA/Untitled?node-id=46-2&p=f&t=0BsEfLQ6s4F6W9XU-0)
+[CineMind Prototype 3] (https://www.figma.com/design/WhpN8N0DtObnrDLCAKqpxA/Untitled?node-id=63-2&p=f&t=0BsEfLQ6s4F6W9XU-0)
 
 ---
 
